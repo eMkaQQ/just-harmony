@@ -4,7 +4,7 @@ A simple wrapper for a C# patching library called Harmony, to make it ready to u
 The version of the Harmony release being used is indicated by the mod version. Using dll from Harmony-Fat package, that targets .Net Framework 4.8.
 
 ## How to use
-If you are making your mod using Unity, install this repository as a github package via the Package Manager.
+If you are making your mod using Unity, install this repository as a github package via the Package Manager: https://github.com/eMkaQQ/timberborn-harmony.git
 
 If you are modding using an IDE, reference the Harmony dll from the Harmony mod, which you can find on mod.io or on the Steam Workshop.
 
